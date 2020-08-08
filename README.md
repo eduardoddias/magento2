@@ -35,7 +35,7 @@ Caso prefira, é possível instalar o módulo através de sua release. Para isso
 1. Crie o diretório do módulo:
    * `mkdir -p app/code/Rede/Adquirencia`
 2. Faça o download da última release do módulo:
-   * `wget wget https://github.com/DevelopersRede/magento2/releases/latest/download/magento.zip -P app/code/Rede/Adquirencia/`
+   * `wget https://github.com/DevelopersRede/magento2/releases/latest/download/magento.zip -P app/code/Rede/Adquirencia/`
 3. Descompacte o módulo:
    * `unzip app/code/Rede/Adquirencia/magento.zip -d app/code/Rede/Adquirencia/`
 4.Apague o zip:
